@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+htmlcov/
+.Python
+*.pydevproject
+.ropeproject
+.hypothesis/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Application specific generated files
+logs/
+user_state.json
+assets/summaries/
+
+# Environment configuration
+.env
+*.env
+.env.*
+!.env.example
+
+# Build artifacts
+*.spec
+*.zip
+*.tar.gz
+*.exe
+*.dmg
+*.app
+
+# Coverage reports
+.coverage
+coverage.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
+*~
