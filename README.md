@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # AI_tutor_APP
-=======
 
 ## Contributing
 
@@ -32,5 +31,3 @@ Please ensure your code adheres to good practices and includes relevant comments
 *   [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 *   [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 
----
->>>>>>> f5c03a4 (feat: Add graph parsing, API endpoint, and HTML view for notes graph)
